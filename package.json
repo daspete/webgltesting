@@ -1,0 +1,14 @@
+{
+  "name": "bitberry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.0",
+    "nuxt": "^1.4.1",
+    "sass-loader": "^7.0.3"
+  }
+}
